@@ -30,3 +30,6 @@ The website features a modern design, smooth scrolling, a mobile-friendly naviga
 ├── 📄 index.html      # Main HTML structure and content
 ├── 📄 style.css       # Custom styling and responsive rules
 └── 📄 script.js       # Interactivity and DOM manipulation
+
+
+##Website Link:  https://rakshitaryan0-wq.github.io/Static-Website-For-Developer-s-Portfolio/
